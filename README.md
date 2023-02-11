@@ -29,7 +29,7 @@
 ---
 
 ### :man_technologist: About Me :<br/>
-- :telescope: I’m study in IT-Incubator and I will be Frontend React Developer.
+- :telescope: I’m a graduate of the IT-INCUBATOR school and I’m a Frontend React Developer.
 
 - :seedling: I study new technologies and the correctness of writing code.
 
