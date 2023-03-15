@@ -33,7 +33,7 @@
 
 - :seedling: I study new technologies and the correctness of writing code.
 
-- :zap: In my free time I read books, work out in the gym and try to relax.
+- :zap: In my free time I read books, work out in the gym and try to find perfect life balance.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleksii-fes/)
 [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/aleksei.fesenko.75/)
