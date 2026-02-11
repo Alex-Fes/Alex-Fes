@@ -1,116 +1,107 @@
+# Aleksei Fesenko
 
-<div>
-<div id="header" align="center">
+**Fullstack Developer (Frontend-focused)**  
+Product Engineering · Scalable Web Applications · System Design  
 
-### Hi there 👋
-
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/oleksii-fes/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/aleksei.fesenko.75/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=fb&logoColor=white" alt="Facebook Badge"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
-</div>
-</div>
-<div>
+📍 Remote  
+📫 aleksei.fesenko86@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/oleksii-fes/)  
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Frontend Developer with production experience — from MVPs to complex enterprise tools.  
-I specialize in architecture-heavy, UI-rich applications built with **React** and **Next.js**, focusing on maintainability, performance, and clean business logic.
+Fullstack developer with 4+ years of commercial experience building production-grade web applications — from MVPs to scalable platforms with complex business logic.
 
-I've worked on:
-- browser extensions  
-- analytics dashboards  
-- Telegram and VK mini-apps  
-- internal educational platforms
+Frontend-focused engineer with strong background in:
+- system architecture
+- financial and subscription logic
+- role-based access systems
+- SSR and performance optimization
+- building reliable production systems
 
-Confident in driving frontend architecture, mentoring teammates, and aligning code with business goals.
-
----
-
-### 🛠️ Tech Stack
-
-**Core Stack:**  
-`React`, `Redux`, `Zustand`, `TypeScript`, `JavaScript`, `Next.js (App Router)`, `SSR`, `HTML`, `CSS`, `Sass/SCSS`
-
-**UI Libraries:**  
-`Material UI`, `Mantine`, `styled-components`, `Telegram UI`, `Storybook`, `@dnd-kit`
-
-**Data & Visualization:**  
-`Chart.js`, `FullCalendar`, `React-PDF`, `Axios`, `Editor.js`, `AntDesign`
-
-**DevOps & Architecture:**  
-`Git`, `GitHub Actions (CI/CD)`, `Webpack`, `Vite`, `FSD`, `JWT auth`, `SSR caching`
-
-**Mini App Ecosystem:**  
-`VKBridge`, `Telegram SDK`, `TMA.js`, `Chrome Extensions`, `ngrok`
-
-
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleksii-fes/)
-[![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/aleksei.fesenko.75/)
+I work closely with product teams to translate business requirements into maintainable, scalable technical solutions.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome Extension Dev" alt="Chrome Extension" width="40" height="40"/>&nbsp;
-</div>
+## 🚀 Production Projects
 
-<div>
+### 🏦 Monshare – Investment Platform (2024–2026)
+
+🔗 https://platform.monshare.io/
+
+Platform with investment logic, user roles, financial calculations and wallet-based authentication.
+
+**Responsibilities:**
+- Designed frontend and backend architecture
+- Implemented complex financial calculations (APR, income projections, payback ETA)
+- Built role-based permission system
+- Integrated third-party services (KYC)
+- Implemented background jobs for metric recalculation
+- Maintained production releases and updates
+
+**Stack:** Next.js, TypeScript, TanStack Query, Strapi, Redis
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alex-Fes&theme=dark)](https://git.io/streak-stats)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Fes&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 💼 Elsolo – B2B Subscription Platform (2022–2026)
 
-</div>
-</div>
-</div>
+🔗 https://elsolo.ru/
 
+B2B SaaS platform with subscription model and payment integration.
 
+**Responsibilities:**
+- Designed billing and subscription logic
+- Developed backend using NestJS
+- Implemented SSR architecture
+- Configured Docker-based infrastructure
+- Integrated acquiring services
 
+**Stack:** NestJS, Next.js, Docker, MariaDB
 
+---
 
+### 🛒 ohReally – E-commerce Platform + Browser Extension (2023–2024)
 
+🔗 https://ohreally.ru/
 
- 
+E-commerce system with browser extension synchronization.
 
-<!--
-**Alex-Fes/Alex-Fes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Responsibilities:**
+- Implemented full order lifecycle
+- Developed cross-browser extension
+- Built extension ↔ website ↔ backend synchronization
+- Contributed to production support and optimization
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Frontend
+React · Next.js (App Router) · TypeScript  
+Redux · Zustand · TanStack Query  
+Mantine · Chart.js · SSR  
+
+### Backend
+Node.js · NestJS · Strapi · REST API  
+
+### Infrastructure
+Docker · Redis · MariaDB · GitHub Actions  
+
+---
+
+## 📈 Focus Areas
+
+- Scalable web applications  
+- Complex business logic implementation  
+- Role-based systems  
+- Production architecture  
+- Product-driven engineering  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alex-Fes&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Fes&layout=compact&theme=dark)
